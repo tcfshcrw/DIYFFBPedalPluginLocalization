@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DIYFFBPedalPlugin_BtnTextExponent" xml:space="preserve">
+    <value>指数曲线</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_BtnTextLinear" xml:space="preserve">
+    <value>线性</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_BtnTextLogarithm" xml:space="preserve">
+    <value>对数曲线</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_BtnTextSCurve" xml:space="preserve">
+    <value>S曲线</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextGetOnlineConfig" xml:space="preserve">
+    <value>云端设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextGetPedalInfo" xml:space="preserve">
+    <value>踏板信息</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextPedalOta" xml:space="preserve">
+    <value>OTA更新</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextPedalRestart" xml:space="preserve">
+    <value>重启</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextSerialMonitor" xml:space="preserve">
+    <value>电机日志</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_ButtonTextWirelessAssignment" xml:space="preserve">
+    <value>无线踏板绑定</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelDebugFlag0" xml:space="preserve">
+    <value>调试标识0:</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelPedalSetting" xml:space="preserve">
+    <value>踏板设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingAdvancedMode" xml:space="preserve">
+    <value>高级模式</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoComConnect" xml:space="preserve">
+    <value>自动连接COM口</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoConnectBridge" xml:space="preserve">
+    <value>自动连接无线控制器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoProfileSwitch" xml:space="preserve">
+    <value>自动切换配置文件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingFanatecOrPicoSupport" xml:space="preserve">
+    <value>Fanatec或Pico支持</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingTittle" xml:space="preserve">
+    <value>系统设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_LabelSystemSettingVjoyOutput" xml:space="preserve">
+    <value>vJoy输出</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabTextFilter" xml:space="preserve">
+    <value>过滤器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabTextGeneral" xml:space="preserve">
+    <value>通用</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabTextGlobalEffects" xml:space="preserve">
+    <value>全局效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabTextServo" xml:space="preserve">
+    <value>伺服</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextApply" xml:space="preserve">
+    <value>应用</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextAutoClear" xml:space="preserve">
+    <value>自动清除</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextAutomaticPedalConnect" xml:space="preserve">
+    <value>自动连接踏板（有线）</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBridgeId" xml:space="preserve">
+    <value>无线控制器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnBind" xml:space="preserve">
+    <value>绑定</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnBridgeDebug" xml:space="preserve">
+    <value>无线控制器调试</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnBridgeOTA" xml:space="preserve">
+    <value>无线控制器OTA更新</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnBridgeRestart" xml:space="preserve">
+    <value>重启</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnClear" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnPluginUpdate" xml:space="preserve">
+    <value>插件更新</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListAddNewConfig" xml:space="preserve">
+    <value>新增设置文件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListPreview" xml:space="preserve">
+    <value>预览</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListReset" xml:space="preserve">
+    <value>重置激活的配置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListSaveAs" xml:space="preserve">
+    <value>另存为新设置文件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListSetAsStartup" xml:space="preserve">
+    <value>设置为默认启动配置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextConfigListTittle" xml:space="preserve">
+    <value>配置文件清单</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextDelete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSEffectApply" xml:space="preserve">
+    <value>效果应用于：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSEffectProfile" xml:space="preserve">
+    <value>效果配置：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSSimulateABS" xml:space="preserve">
+    <value>模拟ABS</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSSliderAmp" xml:space="preserve">
+    <value>ABS/TC振幅</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSSliderFreq" xml:space="preserve">
+    <value>ABS/TC频率</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSTestABS" xml:space="preserve">
+    <value>测试ABS/TC</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectABSTittle" xml:space="preserve">
+    <value>ABS/TC效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectBiteAmp" xml:space="preserve">
+    <value>结合点振幅</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectBiteFreq" xml:space="preserve">
+    <value>结合点状频率</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectBiteTittle" xml:space="preserve">
+    <value>离合结合点振动</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustom1Tittle" xml:space="preserve">
+    <value>自定义效果1</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustom2Tittle" xml:space="preserve">
+    <value>自定义效果2</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustomAmp" xml:space="preserve">
+    <value>效果振幅</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustomFreq" xml:space="preserve">
+    <value>效果频率</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustomTrigger" xml:space="preserve">
+    <value>效果触发器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineAmp" xml:space="preserve">
+    <value>效果振幅</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineDepend" xml:space="preserve">
+    <value>效果依赖：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineFreq" xml:space="preserve">
+    <value>效果频率：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineRPM" xml:space="preserve">
+    <value>发动机转速</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineSpeed" xml:space="preserve">
+    <value>速度振动</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectEngineTittle" xml:space="preserve">
+    <value>发动机转速/速度振动效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectGforceMultiplier" xml:space="preserve">
+    <value>G力</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectGforceSmoothness" xml:space="preserve">
+    <value>G力平滑度</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectGforceTittle" xml:space="preserve">
+    <value>G力效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectImpactMultiplier" xml:space="preserve">
+    <value>道路冲击</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectImpactSmoothness" xml:space="preserve">
+    <value>道路冲击平滑器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectImpactTittle" xml:space="preserve">
+    <value>道路冲击效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectRudderAccTittle" xml:space="preserve">
+    <value>加速效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectRudderAccWindForce" xml:space="preserve">
+    <value>风力作用于舵</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectRudderEngineTittle" xml:space="preserve">
+    <value>发动机转速振动效果</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectUpdateRate" xml:space="preserve">
+    <value>效果更新频率：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipAmp" xml:space="preserve">
+    <value>通知振幅</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipFreq" xml:space="preserve">
+    <value>通知频率</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipProperty" xml:space="preserve">
+    <value>效果熟悉</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipTittle" xml:space="preserve">
+    <value>轮胎打滑通知</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipTrigger" xml:space="preserve">
+    <value>打滑效果触发器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextForceCurveAdjustment" xml:space="preserve">
+    <value>力曲线调整</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextForceTravelCurve" xml:space="preserve">
+    <value>力行程曲线</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSetting" xml:space="preserve">
+    <value>通用设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingCrashDetect" xml:space="preserve">
+    <value>启用碰撞检测</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingDampingFactor" xml:space="preserve">
+    <value>阻尼因子</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingJoystickOutputFromTravel" xml:space="preserve">
+    <value>摇杆行程输出</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingLinearPitch" xml:space="preserve">
+    <value>线性模块俯仰角</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingLoadcellRate" xml:space="preserve">
+    <value>压力传感器数据</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingMaxGameOut" xml:space="preserve">
+    <value>游戏最大力反馈输出：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseLCReading" xml:space="preserve">
+    <value>反向LC读取</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseServoDirection" xml:space="preserve">
+    <value>伺服方向反向</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingServoIdleTimeout" xml:space="preserve">
+    <value>伺服空闲超时</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGeneralSettingStepLossRecor" xml:space="preserve">
+    <value>启用步长损失恢复。</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGlobalEffectsSettingSliderEffectThresholdForce" xml:space="preserve">
+    <value>效果阈值力</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextGlobalEffectsSettingTittle" xml:space="preserve">
+    <value>全局特效设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMapping" xml:space="preserve">
+    <value>摇杆映射</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInExponential" xml:space="preserve">
+    <value>按指数排列</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInLine" xml:space="preserve">
+    <value>按线性排列</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInLogarithm" xml:space="preserve">
+    <value>按对数排列</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInSCurve" xml:space="preserve">
+    <value>按s型排列</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextJoystickMappingTittle" xml:space="preserve">
+    <value>摇杆映射</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextKFSettingFilterModel" xml:space="preserve">
+    <value>过滤模式：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextKFSettingJoystickDenoiseSliderName" xml:space="preserve">
+    <value>摇杆去噪KF值</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextKFSettingJoystickDenoiseToggle" xml:space="preserve">
+    <value>摇杆输出降噪</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextKFSettingKFDescription" xml:space="preserve">
+    <value>压力传感器去噪因子(慢到快)</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextKFSettingTittle" xml:space="preserve">
+    <value>降噪滤波器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelBridgeVersion" xml:space="preserve">
+    <value>无线控制器版本</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelConnection" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelDAPVersion" xml:space="preserve">
+    <value>软件版本</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelPedalVersion" xml:space="preserve">
+    <value>踏板软件版本</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelPluginVersion" xml:space="preserve">
+    <value>插件软件版本</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLabelServoState" xml:space="preserve">
+    <value>伺服状态</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLeaveWithoutChange" xml:space="preserve">
+    <value>退出不保存</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextLogPedalStates" xml:space="preserve">
+    <value>记录踏板状态</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextOverloadWarning1" xml:space="preserve">
+    <value>注意，不当配置和踏板运动学数据可能导致伺服过载！！</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextOverloadWarning2" xml:space="preserve">
+    <value>最大伺服出力</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextOverwrite" xml:space="preserve">
+    <value>覆盖</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalIdBrake" xml:space="preserve">
+    <value>刹车</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalIdClutch" xml:space="preserve">
+    <value>离合器</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalIdThrottle" xml:space="preserve">
+    <value>油门</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalInfoTitle" xml:space="preserve">
+    <value>踏板信息</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalKinematics" xml:space="preserve">
+    <value>踏板运动学</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalKinematicsError" xml:space="preserve">
+    <value>踏板运动鞋计算错误</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalKinematicsExpectedMaxForce" xml:space="preserve">
+    <value>最大行程时预测的极限力</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedalKinematicsTitle" xml:space="preserve">
+    <value>踏板运动学设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextPedals" xml:space="preserve">
+    <value>赛车踏板</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileListAddNewProfile" xml:space="preserve">
+    <value>新增配置文件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileListGameOrCar" xml:space="preserve">
+    <value>游戏或车辆ID：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileListSaveAs" xml:space="preserve">
+    <value>另存为新的配置文件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileListTittle" xml:space="preserve">
+    <value>配置文件列表</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileShortcutBinding" xml:space="preserve">
+    <value>配置文件绑定</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileShortcutName" xml:space="preserve">
+    <value>自定义动作名称</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileShortcutTittle" xml:space="preserve">
+    <value>配置文件快照</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextProfileShortcutWarning" xml:space="preserve">
+    <value>自定义动作名称将在simhub重启后生效。</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRead" xml:space="preserve">
+    <value>读取</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRefreshList" xml:space="preserve">
+    <value>刷新列表</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRename" xml:space="preserve">
+    <value>重命名</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRudder" xml:space="preserve">
+    <value>飞行脚舵</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRudderId" xml:space="preserve">
+    <value>飞行脚舵</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextRudderInfoTitle" xml:space="preserve">
+    <value>飞行脚舵信息</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextServoSettingSliderEndstopCurrent" xml:space="preserve">
+    <value>限位检测阈值</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextServoSettingSliderServoInertia" xml:space="preserve">
+    <value>惯性比（pr0.04）</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextServoSettingSliderServoSmoothness" xml:space="preserve">
+    <value>伺服位置平滑因子（pr2.22）</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextServoSettingTittle" xml:space="preserve">
+    <value>伺服设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextSystem" xml:space="preserve">
+    <value>系统</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextSystemInfoTitle" xml:space="preserve">
+    <value>系统信息</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateChannel" xml:space="preserve">
+    <value>更新频道：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateForceFlash" xml:space="preserve">
+    <value>强制刷写固件</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateFromPlatformio" xml:space="preserve">
+    <value>从PlatformIO更新</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateTestBuildWarning" xml:space="preserve">
+    <value>测试创建，请勿使用</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateWindowPass" xml:space="preserve">
+    <value>密码：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateWindowSSID" xml:space="preserve">
+    <value>wifi名称：</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextUpdateWindowTitle" xml:space="preserve">
+    <value>更新设置</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextWirelessCommunication" xml:space="preserve">
+    <value>无线通讯</value>
+  </data>
+</root>
