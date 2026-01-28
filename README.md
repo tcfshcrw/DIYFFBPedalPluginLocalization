@@ -17,5 +17,9 @@
 8. Copy the updated `.resx` file into the corresponding folder in your forked repository.
 9. Submit a **Pull Request (PR)** to merge your translation.
 
+### Contributors
+zh-CN: QONE1918
+
 ---
+
 
