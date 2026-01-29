@@ -18,8 +18,8 @@
 9. Submit a **Pull Request (PR)** to merge your translation.
 
 ### Contributors
-zh-CN: QONE1918
-it: btrandreadavi
+zh-CN: QONE1918<br>
+it: btrandreadavi<br>
 ---
 
 
