@@ -118,453 +118,399 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DIYFFBPedalPlugin_BtnTextExponent" xml:space="preserve">
-    <value>指数曲线</value>
+    <value>Lenta</value>
   </data>
   <data name="DIYFFBPedalPlugin_BtnTextLinear" xml:space="preserve">
-    <value>线性</value>
+    <value>Lineare</value>
   </data>
   <data name="DIYFFBPedalPlugin_BtnTextLogarithm" xml:space="preserve">
-    <value>对数曲线</value>
+    <value>Veloce</value>
   </data>
   <data name="DIYFFBPedalPlugin_BtnTextSCurve" xml:space="preserve">
-    <value>S曲线</value>
+    <value>Curva a S</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextGetOnlineConfig" xml:space="preserve">
-    <value>云端设置</value>
+    <value>Cloud Config</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextGetPedalInfo" xml:space="preserve">
-    <value>踏板信息</value>
+    <value>Info pedale</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextPedalOta" xml:space="preserve">
-    <value>OTA更新</value>
+    <value>OTA</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextPedalRestart" xml:space="preserve">
-    <value>重启</value>
+    <value>Riavvia</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextSerialMonitor" xml:space="preserve">
-    <value>电机日志</value>
+    <value>Serial Log</value>
   </data>
   <data name="DIYFFBPedalPlugin_ButtonTextWirelessAssignment" xml:space="preserve">
-    <value>无线踏板绑定</value>
+    <value>Wifi</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelDebugFlag0" xml:space="preserve">
-    <value>调试标识0:</value>
+    <value>Flag di debug 0:</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelPedalSetting" xml:space="preserve">
-    <value>踏板设置</value>
+    <value>Impostazioni pedale</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingAdvancedMode" xml:space="preserve">
-    <value>高级模式</value>
+    <value>Modalità avanzata</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoComConnect" xml:space="preserve">
-    <value>自动连接COM口</value>
+    <value>Connessione automatica</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoConnectBridge" xml:space="preserve">
-    <value>自动连接无线控制器</value>
+    <value>Connessione automatica bridge</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingAutoProfileSwitch" xml:space="preserve">
-    <value>自动切换配置文件</value>
+    <value>Cambio automatico profilo</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingFanatecOrPicoSupport" xml:space="preserve">
-    <value>Fanatec或Pico支持</value>
+    <value>Supporto Fanatec o Pico</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingTittle" xml:space="preserve">
-    <value>系统设置</value>
+    <value>Impostazione sistema</value>
   </data>
   <data name="DIYFFBPedalPlugin_LabelSystemSettingVjoyOutput" xml:space="preserve">
-    <value>vJoy输出</value>
+    <value>Output vJoy</value>
   </data>
   <data name="DIYFFBPedalPlugin_TabTextFilter" xml:space="preserve">
-    <value>过滤器</value>
+    <value>Filtro</value>
   </data>
   <data name="DIYFFBPedalPlugin_TabTextGeneral" xml:space="preserve">
-    <value>通用</value>
+    <value>Generale</value>
   </data>
   <data name="DIYFFBPedalPlugin_TabTextGlobalEffects" xml:space="preserve">
-    <value>全局效果</value>
+    <value>Effetti globali</value>
   </data>
   <data name="DIYFFBPedalPlugin_TabTextServo" xml:space="preserve">
-    <value>伺服</value>
+    <value>Servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextApply" xml:space="preserve">
-    <value>应用</value>
+    <value>Applica</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextAutoClear" xml:space="preserve">
-    <value>自动清除</value>
+    <value>Cancellazione automatica</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextAutomaticPedalConnect" xml:space="preserve">
-    <value>自动连接踏板（有线）</value>
+    <value>Connessione automatica</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBridgeId" xml:space="preserve">
-    <value>无线控制器</value>
+    <value>Bridge</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnBind" xml:space="preserve">
-    <value>绑定</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextBtnBridgeDebug" xml:space="preserve">
-    <value>控制器调试</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextBtnBridgeOTA" xml:space="preserve">
-    <value>控制器OTA</value>
+    <value>Accoppiamento</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnBridgeRestart" xml:space="preserve">
-    <value>重启</value>
+    <value>Riavvia</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnClear" xml:space="preserve">
-    <value>清除</value>
+    <value>Pulisci</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnPluginUpdate" xml:space="preserve">
-    <value>插件更新</value>
+    <value>Aggiornamento plugin</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListAddNewConfig" xml:space="preserve">
-    <value>新增设置文件</value>
+    <value>Aggiungi nuova config</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListPreview" xml:space="preserve">
-    <value>预览</value>
+    <value>Anteprima</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListReset" xml:space="preserve">
-    <value>重置激活的配置</value>
+    <value>Ripristina config</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListSaveAs" xml:space="preserve">
-    <value>另存为新设置文件</value>
+    <value>Salva nuova config</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListSetAsStartup" xml:space="preserve">
-    <value>设置为默认启动配置</value>
+    <value>Imposta come Predefinito</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextConfigListTittle" xml:space="preserve">
-    <value>配置文件清单</value>
+    <value>Elenco configurazioni</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextDelete" xml:space="preserve">
-    <value>删除</value>
+    <value>Cancella</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSEffectApply" xml:space="preserve">
-    <value>效果应用于：</value>
+    <value>Effetto applicato</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSEffectProfile" xml:space="preserve">
-    <value>效果配置：</value>
+    <value>Profilo effetti:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSSimulateABS" xml:space="preserve">
-    <value>模拟ABS</value>
+    <value>Simula l'ABS</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSSliderAmp" xml:space="preserve">
-    <value>ABS/TC振幅</value>
+    <value>Ampiezza ABS/TC</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSSliderFreq" xml:space="preserve">
-    <value>ABS/TC频率</value>
+    <value>Frequenza ABS/TC</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSTestABS" xml:space="preserve">
-    <value>测试ABS/TC</value>
+    <value>Test ABS</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectABSTittle" xml:space="preserve">
-    <value>ABS/TC效果</value>
+    <value>Effetto ABS/TC</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectBiteAmp" xml:space="preserve">
-    <value>结合点振幅</value>
+    <value>Ampiezza Bite Point</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectBiteFreq" xml:space="preserve">
-    <value>结合点状频率</value>
+    <value>Frequenza Bite Point</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectBiteTittle" xml:space="preserve">
-    <value>离合结合点振动</value>
+    <value>Vibrazione Bite Point</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustom1Tittle" xml:space="preserve">
-    <value>自定义效果1</value>
+    <value>Effetto personalizzato 1</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustom2Tittle" xml:space="preserve">
-    <value>自定义效果2</value>
+    <value>Effetto personalizzato 2</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustomAmp" xml:space="preserve">
-    <value>效果振幅</value>
+    <value>Ampiezza dell'effetto</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustomFreq" xml:space="preserve">
-    <value>效果频率</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectCustomTrigger" xml:space="preserve">
-    <value>效果触发器</value>
+    <value>Frequenza dell'effetto</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectEngineAmp" xml:space="preserve">
-    <value>效果振幅</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectEngineDepend" xml:space="preserve">
-    <value>效果依赖：</value>
+    <value>Ampiezza dell'effetto</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectEngineFreq" xml:space="preserve">
-    <value>效果频率：</value>
+    <value>Frequenza dell'effetto:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectEngineRPM" xml:space="preserve">
-    <value>发动机转速</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectEngineSpeed" xml:space="preserve">
-    <value>速度振动</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectEngineTittle" xml:space="preserve">
-    <value>发动机转速/速度振动效果</value>
+    <value>Giri del motore</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectGforceMultiplier" xml:space="preserve">
-    <value>G力</value>
+    <value>Moltiplicatore della forza G</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectGforceSmoothness" xml:space="preserve">
-    <value>G力平滑度</value>
+    <value>Smoothness forza G</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectGforceTittle" xml:space="preserve">
-    <value>G力效果</value>
+    <value>Effetto Forza G</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectImpactMultiplier" xml:space="preserve">
-    <value>道路冲击</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectImpactSmoothness" xml:space="preserve">
-    <value>道路冲击平滑器</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectImpactTittle" xml:space="preserve">
-    <value>道路冲击效果</value>
+    <value>Moltiplicatore impatto</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectRudderAccTittle" xml:space="preserve">
-    <value>加速效果</value>
+    <value>Effetto accelerazione</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectRudderAccWindForce" xml:space="preserve">
-    <value>舵面风力</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectRudderEngineTittle" xml:space="preserve">
-    <value>发动机转速振动效果</value>
+    <value>Forza del vento applicata al timone</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectUpdateRate" xml:space="preserve">
-    <value>效果更新频率：</value>
+    <value>Frequenza aggiornamento effetti:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectWheelSlipAmp" xml:space="preserve">
-    <value>通知振幅</value>
+    <value>Ampiezza delle notifiche</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectWheelSlipFreq" xml:space="preserve">
-    <value>通知频率</value>
+    <value>Frequenza di notifica</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectWheelSlipProperty" xml:space="preserve">
-    <value>效果属性</value>
+    <value>Proprietà dell'effetto</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectWheelSlipTittle" xml:space="preserve">
-    <value>轮胎打滑通知</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextEffectWheelSlipTrigger" xml:space="preserve">
-    <value>打滑效果触发器</value>
+    <value>Notifica di slittamento delle ruote</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextForceCurveAdjustment" xml:space="preserve">
-    <value>力曲线调整</value>
+    <value>REGOLAZIONE DELLA CURVA DELLA FORZA</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextForceTravelCurve" xml:space="preserve">
-    <value>力行程曲线</value>
+    <value>CURVA FORZA-PERCORSO</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSetting" xml:space="preserve">
-    <value>通用设置</value>
+    <value>Impostazioni generali</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingCrashDetect" xml:space="preserve">
-    <value>启用碰撞检测</value>
+    <value>Abilita rilevamento crash.</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingDampingFactor" xml:space="preserve">
-    <value>阻尼因子</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextGeneralSettingJoystickOutputFromTravel" xml:space="preserve">
-    <value>摇杆行程输出</value>
+    <value>Damping</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingLinearPitch" xml:space="preserve">
-    <value>丝杆导程</value>
+    <value>Passo modulo lineare:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingLoadcellRate" xml:space="preserve">
-    <value>压力传感器数据</value>
+    <value>KG cella di carico</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingMaxGameOut" xml:space="preserve">
-    <value>游戏最大力反馈输出：</value>
+    <value>Uscita di gioco massima</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseLCReading" xml:space="preserve">
-    <value>反向LC读取</value>
+    <value>Lettura LC inversa</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseServoDirection" xml:space="preserve">
-    <value>伺服方向反向</value>
+    <value>Inverti direzione servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingServoIdleTimeout" xml:space="preserve">
-    <value>伺服空闲超时</value>
+    <value>Timeout inattività del servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingStepLossRecor" xml:space="preserve">
-    <value>启用步长损失恢复。</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextGlobalEffectsSettingSliderEffectThresholdForce" xml:space="preserve">
-    <value>效果阈值力</value>
+    <value>Recupero Perdita Passi</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGlobalEffectsSettingTittle" xml:space="preserve">
-    <value>全局特效设置</value>
+    <value>Impostazione degli effetti globali</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMapping" xml:space="preserve">
-    <value>摇杆映射</value>
+    <value>MAPPATURA JOYSTICK</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInExponential" xml:space="preserve">
-    <value>按指数排列</value>
+    <value>Disporre in esponenziale</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInLine" xml:space="preserve">
-    <value>按线性排列</value>
+    <value>Disporre in linea</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInLogarithm" xml:space="preserve">
-    <value>按对数排列</value>
+    <value>Disporre in logaritmo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMappingArrangeInSCurve" xml:space="preserve">
-    <value>按s型排列</value>
+    <value>Disporre in curva a S</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextJoystickMappingTittle" xml:space="preserve">
-    <value>摇杆映射</value>
+    <value>MAPPATURA JOYSTICK</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextKFSettingFilterModel" xml:space="preserve">
-    <value>过滤模式：</value>
+    <value>Modello:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextKFSettingJoystickDenoiseSliderName" xml:space="preserve">
-    <value>摇杆去噪KF值</value>
+    <value>KF Joystick Denoise</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextKFSettingJoystickDenoiseToggle" xml:space="preserve">
-    <value>摇杆输出降噪</value>
+    <value>Denoise uscita joystick</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextKFSettingKFDescription" xml:space="preserve">
-    <value>压力传感器去噪因子(慢到快)</value>
+    <value>denoising cella di carico (da lento a veloce)</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextKFSettingTittle" xml:space="preserve">
-    <value>降噪滤波器</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextLabelBridgeVersion" xml:space="preserve">
-    <value>无线控制器版本</value>
+    <value>Filtro riduzione rumore</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelConnection" xml:space="preserve">
-    <value>连接</value>
+    <value>Connessione</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelDAPVersion" xml:space="preserve">
-    <value>软件版本</value>
+    <value>Versione DAP</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelPedalVersion" xml:space="preserve">
-    <value>踏板软件版本</value>
+    <value>Versione pedale:  </value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelPluginVersion" xml:space="preserve">
-    <value>插件软件版本</value>
+    <value>Versione plugin:  </value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelServoState" xml:space="preserve">
-    <value>伺服状态</value>
+    <value>Stato del servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLeaveWithoutChange" xml:space="preserve">
-    <value>退出不保存</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextLogPedalStates" xml:space="preserve">
-    <value>记录踏板状态</value>
+    <value>Esci senza cambiamenti</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextOverloadWarning1" xml:space="preserve">
-    <value>注意，不当配置和踏板运动学数据可能导致伺服过载！！</value>
+    <value>Attenzione, la configurazione e la cinematica del pedale possono causare un sovraccarico del servo!!</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextOverloadWarning2" xml:space="preserve">
-    <value>最大伺服出力</value>
+    <value>Forza massima di uscita del servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextOverwrite" xml:space="preserve">
-    <value>覆盖</value>
+    <value>Sovrascrivi</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalIdBrake" xml:space="preserve">
-    <value>刹车</value>
+    <value>Freno</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalIdClutch" xml:space="preserve">
-    <value>离合器</value>
+    <value>Frizione</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalIdThrottle" xml:space="preserve">
-    <value>油门</value>
+    <value>Acceleratore</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalInfoTitle" xml:space="preserve">
-    <value>踏板信息</value>
+    <value>Informazioni sul pedale</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalKinematics" xml:space="preserve">
-    <value>踏板运动学</value>
+    <value>CINEMATICA DEL PEDALE</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalKinematicsError" xml:space="preserve">
-    <value>踏板运动鞋计算错误</value>
+    <value>Errore di calcolo cinematico del pedale</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalKinematicsExpectedMaxForce" xml:space="preserve">
-    <value>最大行程时预测的极限力</value>
+    <value>Forza massima prevista alla corsa massima</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedalKinematicsTitle" xml:space="preserve">
-    <value>踏板运动学设置</value>
+    <value>CINEMATICA PEDALE</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextPedals" xml:space="preserve">
-    <value>赛车踏板</value>
+    <value>PEDALI</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileListAddNewProfile" xml:space="preserve">
-    <value>新增配置文件</value>
+    <value>Aggiungi nuovo profilo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileListGameOrCar" xml:space="preserve">
-    <value>游戏或车辆ID：</value>
+    <value>ID gioco o auto:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileListSaveAs" xml:space="preserve">
-    <value>另存为新的配置文件</value>
+    <value>Salva come nuovo profilo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileListTittle" xml:space="preserve">
-    <value>配置文件列表</value>
+    <value>Elenco profili</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileShortcutBinding" xml:space="preserve">
-    <value>配置文件绑定</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextProfileShortcutName" xml:space="preserve">
-    <value>自定义动作名称</value>
+    <value>Accoppiamento Profilo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextProfileShortcutTittle" xml:space="preserve">
-    <value>配置文件快照</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextProfileShortcutWarning" xml:space="preserve">
-    <value>自定义动作名称将在simhub重启后生效。</value>
+    <value>Scorciatoia del profilo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRead" xml:space="preserve">
-    <value>读取</value>
+    <value>Leggere</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRefreshList" xml:space="preserve">
-    <value>刷新列表</value>
+    <value>Aggiorna elenco</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRename" xml:space="preserve">
-    <value>重命名</value>
+    <value>Rinominare</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRudder" xml:space="preserve">
-    <value>飞行脚舵</value>
+    <value>TIMONE</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRudderId" xml:space="preserve">
-    <value>飞行脚舵</value>
+    <value>Timone</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextRudderInfoTitle" xml:space="preserve">
-    <value>飞行脚舵信息</value>
+    <value>Informazioni sul timone</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextServoSettingSliderEndstopCurrent" xml:space="preserve">
-    <value>限位检测阈值</value>
+    <value>Soglia di rilevamento dei finecorsa</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextServoSettingSliderServoInertia" xml:space="preserve">
-    <value>惯性比（pr0.04）</value>
+    <value>Inertia (Pr0.04)</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextServoSettingSliderServoSmoothness" xml:space="preserve">
-    <value>伺服位置平滑因子（pr2.22）</value>
+    <value>Smoothing posizione del servo (Pr2.22)</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextServoSettingTittle" xml:space="preserve">
-    <value>伺服设置</value>
+    <value>Impostazioni del servo</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextSystem" xml:space="preserve">
-    <value>系统</value>
+    <value>SISTEMA</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextSystemInfoTitle" xml:space="preserve">
-    <value>系统信息</value>
+    <value>Informazioni sul sistema</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextUpdateChannel" xml:space="preserve">
-    <value>更新频道：</value>
+    <value>Aggiorna canale:</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextUpdateForceFlash" xml:space="preserve">
-    <value>强制刷写固件</value>
+    <value>Forza il firmware Flash</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextUpdateFromPlatformio" xml:space="preserve">
-    <value>从PlatformIO更新</value>
+    <value>Carica da PlatformIO</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextUpdateTestBuildWarning" xml:space="preserve">
-    <value>测试创建，请勿使用</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextUpdateWindowPass" xml:space="preserve">
-    <value>密码：</value>
-  </data>
-  <data name="DIYFFBPedalPlugin_TextUpdateWindowSSID" xml:space="preserve">
-    <value>wifi名称：</value>
+    <value>Compilazione di prova NON UTILIZZARE</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextUpdateWindowTitle" xml:space="preserve">
-    <value>更新设置</value>
+    <value>Aggiorna impostazione</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextWirelessCommunication" xml:space="preserve">
-    <value>无线通讯</value>
+    <value>Modalità Wifi</value>
   </data>
 </root>
