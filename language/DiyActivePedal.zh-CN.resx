@@ -373,7 +373,7 @@
     <value>游戏最大力反馈输出：</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseLCReading" xml:space="preserve">
-    <value>反向LC读取</value>
+    <value>压传数据反向</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextGeneralSettingReverseServoDirection" xml:space="preserve">
     <value>伺服方向反向</value>
@@ -427,7 +427,7 @@
     <value>无线控制器版本</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelConnection" xml:space="preserve">
-    <value>连接</value>
+    <value>连接状态</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextLabelDAPVersion" xml:space="preserve">
     <value>软件版本</value>
