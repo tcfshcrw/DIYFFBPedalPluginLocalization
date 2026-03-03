@@ -174,6 +174,18 @@
   <data name="DIYFFBPedalPlugin_LabelSystemSettingVjoyOutput" xml:space="preserve">
     <value>vJoy Output</value>
   </data>
+  <data name="DIYFFBPedalPlugin_TabItemCustom1" xml:space="preserve">
+    <value>CUSTOM1</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabItemCustom2" xml:space="preserve">
+    <value>CUSTOM2</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabItemCustom3" xml:space="preserve">
+    <value>CUSTOM3</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TabItemCustom4" xml:space="preserve">
+    <value>CUSTOM4</value>
+  </data>
   <data name="DIYFFBPedalPlugin_TabTextFilter" xml:space="preserve">
     <value>Filter</value>
   </data>
@@ -212,6 +224,12 @@
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnClear" xml:space="preserve">
     <value>Clear</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnEditor" xml:space="preserve">
+    <value>Script Editor</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextBtnLeave" xml:space="preserve">
+    <value>Leave</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextBtnPluginUpdate" xml:space="preserve">
     <value>Plugin Update</value>
@@ -272,6 +290,12 @@
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustom2Tittle" xml:space="preserve">
     <value>Custom Effect 2</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustom3Tittle" xml:space="preserve">
+    <value>Custom Effect 3</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextEffectCustom4Tittle" xml:space="preserve">
+    <value>Custom Effect 4</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextEffectCustomAmp" xml:space="preserve">
     <value>Effect Amplitude</value>
@@ -446,6 +470,9 @@
   </data>
   <data name="DIYFFBPedalPlugin_TextLogPedalStates" xml:space="preserve">
     <value>Log Pedal States</value>
+  </data>
+  <data name="DIYFFBPedalPlugin_TextNcalcEditorTitle" xml:space="preserve">
+    <value>Ncalc Script Editor</value>
   </data>
   <data name="DIYFFBPedalPlugin_TextOverloadWarning1" xml:space="preserve">
     <value>Caution, the config and pedal kinematics may cause servo overloaded!!</value>
